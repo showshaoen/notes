@@ -1,3 +1,9 @@
+---
+title: ffmpeg Cheat Sheet
+draft: false
+tags: 
+enableToc: true
+---
 # Installing ffmpeg on Windows
 1. Download [ffmpeg](https://ffmpeg.org/download.html)
 2. Unzip the downloaded file and rename the extracted folder to `ffmpeg` and move it into the root of C drive.
